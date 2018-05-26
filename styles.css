@@ -1,0 +1,15 @@
+.highlighted {
+		background-color: yellow;
+}
+
+.special-header {
+	background-color: green;
+}
+
+.important {
+		opacity: 1;
+}
+
+.box {
+	opacity: 0.7;
+}
