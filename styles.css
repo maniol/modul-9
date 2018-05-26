@@ -12,12 +12,13 @@ body {
 	min-height: 100px;
 	text-align: center;
 	vertical-align: top;
+	opacity: 0.7;
 }
 	
 .box header {
 		display: block;
 		border-bottom: 1px solid #000;
-	}
+}
 
 .highlighted {
 		background-color: yellow;
@@ -31,7 +32,4 @@ body {
 		opacity: 1;
 }
 
-.box {
-	opacity: 0.7	;
-}
 	
